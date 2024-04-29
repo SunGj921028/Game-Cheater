@@ -11,6 +11,8 @@
 2. 所帶物品及數量
 3. 角色能力數值
 
+![image](https://github.com/SunGj921028/Game-Cheater/blob/main/sceen.png)
+
 #### 特殊提醒
 #### <功夫>
 1. 可以將目前有的功夫(代碼,等級)條列出來，及時更新
